@@ -1,4 +1,29 @@
 /* Primer selector */
 h1 {
     color: blue;
+    background-color: grey;
+}
+
+/* p {
+    color: green;
+} */
+
+article h2 {
+    color: red;
+}
+
+/* article p {
+    color: blue;
+} */
+
+/* SELECTOR CON CLASES */
+
+.texto {
+    color: green;
+}
+
+/* SELECTOR CON ID */
+
+#texto2 {
+    color: brown;
 }
